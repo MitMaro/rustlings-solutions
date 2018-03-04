@@ -23,7 +23,7 @@ All lessons can be compiled using `./build.bash`
 * [x] `functions2/rs`
 * [x] `functions3/rs`
 * [x] `functions4/rs`
-* [ ] `functions5/rs`
+* [x] `functions5/rs`
 
 ### Primitive types
 
