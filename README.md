@@ -20,7 +20,7 @@ All lessons can be compiled using `./build.bash`
 ### Functions
 
 * [x] `functions1/rs`
-* [ ] `functions2/rs`
+* [x] `functions2/rs`
 * [ ] `functions3/rs`
 * [ ] `functions4/rs`
 * [ ] `functions5/rs`
