@@ -6,7 +6,7 @@ My solutions to the problems from [rustlings](https://github.com/carols10cents/r
 
 ## Instructions
 
-All lessons can be compiled using `./build.bash`
+All lessons can be compiled using `./test.bash [<path/to/lesson.rs>]`
 
 ## Lessons
 
