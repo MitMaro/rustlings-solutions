@@ -36,7 +36,7 @@ All lessons can be compiled using `./test.bash [<path/to/lesson.rs>]`
 
 ### Tests
 
-* [ ] `tests1.rs`
+* [x] `tests1.rs`
 * [ ] `tests2.rs`
 * [ ] `tests3.rs`
 * [ ] `tests4.rs`
