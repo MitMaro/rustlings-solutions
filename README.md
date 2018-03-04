@@ -28,7 +28,7 @@ All lessons can be compiled using `./build.bash`
 ### Primitive types
 
 * [x] `primitive_types1.rs`
-* [ ] `primitive_types2.rs`
+* [x] `primitive_types2.rs`
 * [ ] `primitive_types3.rs`
 * [ ] `primitive_types4.rs`
 * [ ] `primitive_types5.rs`
