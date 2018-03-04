@@ -32,7 +32,7 @@ All lessons can be compiled using `./test.bash [<path/to/lesson.rs>]`
 * [x] `primitive_types3.rs`
 * [x] `primitive_types4.rs`
 * [x] `primitive_types5.rs`
-* [ ] `primitive_types6.rs`
+* [x] `primitive_types6.rs`
 
 ### Tests
 
