@@ -30,7 +30,7 @@ All lessons can be compiled using `./build.bash`
 * [x] `primitive_types1.rs`
 * [x] `primitive_types2.rs`
 * [x] `primitive_types3.rs`
-* [ ] `primitive_types4.rs`
+* [x] `primitive_types4.rs`
 * [ ] `primitive_types5.rs`
 * [ ] `primitive_types6.rs`
 
