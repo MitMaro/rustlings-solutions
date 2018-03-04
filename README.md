@@ -14,7 +14,7 @@ All lessons can be compiled using `./build.bash`
 
 * [x] `variables1.rs`
 * [x] `variables2.rs`
-* [ ] `variables3.rs`
+* [x] `variables3.rs`
 * [ ] `variables4.rs`
 
 ### Functions
