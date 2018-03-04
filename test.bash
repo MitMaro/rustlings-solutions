@@ -11,11 +11,12 @@ fi
 set -o errexit
 
 for f in $srcs; do
-	echo "Running tests/$f"
-	rustc --test --out-dir "${out_directory}$(dirname $f)/" "lessons/$f"
-	echo "Compiling lessons/$f"
+	echo "Compiling lessons$f"
 	rustc --out-dir "${out_directory}$(dirname $f)/" "lessons/$f"
-	echo "Running lessons/$f"
+	echo "Running lessons$f"
+	"./${out_directory}${f%.*}"
+	echo "Testing lessons$f"
+	rustc --test --out-dir "${out_directory}$(dirname $f)/" "lessons/$f"
 	"./${out_directory}${f%.*}"
 	echo ""
 done
