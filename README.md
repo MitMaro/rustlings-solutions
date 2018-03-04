@@ -43,7 +43,7 @@ All lessons can be compiled using `./test.bash [<path/to/lesson.rs>]`
 
 ### If
 
-* [ ] `if1.rs`
+* [x] `if1.rs`
 
 ### Strings
 
