@@ -12,7 +12,7 @@ All lessons can be compiled using `./build.bash`
 
 ### Variable bindings
 
-* [ ] `variables1.rs`
+* [x] `variables1.rs`
 * [ ] `variables2.rs`
 * [ ] `variables3.rs`
 * [ ] `variables4.rs`
