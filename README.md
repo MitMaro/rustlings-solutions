@@ -48,7 +48,7 @@ All lessons can be compiled using `./test.bash [<path/to/lesson.rs>]`
 ### Strings
 
 * [x] `strings1.rs`
-* [ ] `strings2.rs`
+* [x] `strings2.rs`
 * [ ] `strings3.rs`
 
 ### Move Semantics
